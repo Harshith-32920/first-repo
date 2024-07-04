@@ -1,2 +1,4 @@
 # first-repo
-my fist git repository
+my first git repository
+<br>
+Author-M.Harshith
